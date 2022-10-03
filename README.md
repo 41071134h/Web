@@ -10,5 +10,6 @@
 
 ### 作業連結區 ###
 * [week2 靜態網站](https://41071134h.github.io/Web/mypage/)
+* [作業一](https://youtu.be/RjIs2wUH5HU)
 
 ### 專題連結區 ###
