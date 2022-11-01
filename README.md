@@ -13,5 +13,6 @@
 * [week2 靜態網站](https://41071134h.github.io/Web/mypage/)
 * [作業一](https://youtu.be/RjIs2wUH5HU)
 * [作業二](https://youtu.be/80zXG5er8kI)
-* [作業三lab1](https://youtu.be/71kf51MIxMA)
+* [作業三 lab1](https://youtu.be/8N2NJFHDhRc)
+* [作業三 lab2](https://youtu.be/YjGvJXk1RrQ)
 ### 專題連結區 ###
