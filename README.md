@@ -15,4 +15,5 @@
 * [作業二](https://youtu.be/80zXG5er8kI)
 * [作業三 lab1](https://youtu.be/8N2NJFHDhRc)
 * [作業三 lab2](https://youtu.be/YjGvJXk1RrQ)
+* [作業四 lab6](https://youtu.be/L0S22BcCn6s)
 ### 專題連結區 ###
